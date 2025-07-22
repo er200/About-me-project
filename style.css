@@ -1,0 +1,20 @@
+h1 {
+  color: rgba(10, 114, 86, 0.707);
+  font-size: 30px;
+  background-color: rgb(184, 184, 184);
+
+  text-align: center;
+  padding: 50px;
+  margin: 50px;
+}
+
+h2 {
+  background-color: darkolivegreen;
+  padding: 50px;
+
+  text-align: center;
+  font-size: 40px;
+}
+body {
+  background-color: rgb(47, 140, 207);
+}
