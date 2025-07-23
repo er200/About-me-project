@@ -1,20 +1,19 @@
-h1 {
-  color: rgba(10, 114, 86, 0.707);
-  font-size: 30px;
-  background-color: rgb(184, 184, 184);
-
-  text-align: center;
-  padding: 50px;
-  margin: 50px;
+header{
+    color:darkgray;
+    text-align:center;
+    font-size: 40px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 10px;
+    background-color:darkcyan;
+    margin: 5%;;
+    
 }
-
-h2 {
-  background-color: darkolivegreen;
-  padding: 50px;
-
-  text-align: center;
-  font-size: 40px;
+body{
+    background-color:darkslategray;;
 }
-body {
-  background-color: rgb(47, 140, 207);
+div{
+    background-color: dimgray;
+    margin: 5%;
+    padding:20px;
 }
+    
